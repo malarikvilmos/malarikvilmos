@@ -15,10 +15,37 @@
 
 <br>
 
-<div style="display: flex; align-items: center; gap: 200px;">
-<img src="https://github-readme-stats.vercel.app/api?username=malarikvilmos&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=false&count_private=true" alt="malarikvilmos's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malarikvilmos&theme=tokyonight&hide=jupyter%20notebook&show_icons=true&hide_progress=false&hide_border=false&layout=compact" alt="malarikvilmos's GitHub Stats"/> 
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- GitHub Stats -->
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=malarikvilmos&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=false&count_private=true" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=malarikvilmos&theme=default&include_all_commits=true&show_icons=true&hide_border=false&count_private=true" 
+    />
+    <img 
+      alt="malarikvilmos's GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=malarikvilmos&theme=default&include_all_commits=true&show_icons=true&hide_border=false&count_private=true" 
+    />
+  </picture>
+
+  <!-- Top Languages -->
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=malarikvilmos&theme=tokyonight&hide=jupyter%20notebook&show_icons=true&hide_progress=false&hide_border=false&layout=compact" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=malarikvilmos&theme=default&hide=jupyter%20notebook&show_icons=true&hide_progress=false&hide_border=false&layout=compact" 
+    />
+    <img 
+      alt="malarikvilmos's Top Languages" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=malarikvilmos&theme=default&hide=jupyter%20notebook&show_icons=true&hide_progress=false&hide_border=false&layout=compact" 
+    />
+  </picture>
 </div>
-
-
-
