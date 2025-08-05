@@ -18,7 +18,13 @@
 <br>
 -->
 
-![](https://raw.githubusercontent.com/malarikvilmos/malarikvilmos/master/obama.jpg)
+<!-- ![](https://raw.githubusercontent.com/malarikvilmos/malarikvilmos/master/obama.jpg) -->
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/malarikvilmos/malarikvilmos/master/obama.jpg" media="(prefers-color-scheme: dark)">
+  <source srcset="https://raw.githubusercontent.com/malarikvilmos/malarikvilmos/master/stockman.png" media="(prefers-color-scheme: light)">
+  <img src="https://raw.githubusercontent.com/malarikvilmos/malarikvilmos/master/obama.jpg" alt="Obama">
+</picture>
 
 <!--
 <div align="center"; style="display: flex; align-items: center; gap: 20px;">
