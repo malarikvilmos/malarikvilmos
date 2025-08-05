@@ -1,4 +1,4 @@
-
+<!--
 <p align="center"; style="background-color: #1a1b27; border: 2px solid #44475a; padding: 10px; border-radius: 8px; display: inline-block;"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42"></a>
@@ -14,7 +14,7 @@
 <a target="_blank" href="https://premake.github.io/img/premake-logo.png" style="display: inline-block;"><img src="https://premake.github.io/img/premake-logo.png" alt="premake"  height="42"></a></p>
 
 <br>
-
+-->
 
 <div align="center"; style="display: flex; align-items: center; gap: 20px;">
   <!-- GitHub Stats -->
