@@ -13,10 +13,16 @@
 <a target="_blank" href="https://blog.ch0ww.fr/content/images/wordpress/2021/03/1200px-Breezeicons-apps-48-cmake.svg_.png" style="display: inline-block;"><img src="https://blog.ch0ww.fr/content/images/wordpress/2021/03/1200px-Breezeicons-apps-48-cmake.svg_.png" alt="cmake"  height="42"></a>
 <a target="_blank" href="https://premake.github.io/img/premake-logo.png" style="display: inline-block;"><img src="https://premake.github.io/img/premake-logo.png" alt="premake"  height="42"></a></p>
 
+
+
 <br>
 -->
+
+![](https://raw.githubusercontent.com/malarikvilmos/malarikvilmos/master/obama.jpg)
+
+<!--
 <div align="center"; style="display: flex; align-items: center; gap: 20px;">
-  <!-- GitHub Stats -->
+  <!--
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
@@ -32,7 +38,6 @@
     />
   </picture>
 
-  <!-- Top Languages -->
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
@@ -48,4 +53,4 @@
     />
   </picture>
 </div>
-
+-->
